@@ -1,0 +1,18 @@
+{
+  "generator-sppp": {
+    "app.name": "sppp-react-hooks",
+    "sppp.version": "3.9.2",
+    "app.description": "",
+    "app.author": "",
+    "conf.spFolder": "_catalogs/masterpage/spf",
+    "conf.distFolder": "./dist",
+    "conf.additional.sslCerts": false,
+    "conf.additional.customTasks": true,
+    "conf.additional.presets": [
+      "react"
+    ],
+    "conf.additional.confPresets": [
+      "eslint"
+    ]
+  }
+}
